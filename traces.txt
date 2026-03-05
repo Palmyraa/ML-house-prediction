@@ -1,0 +1,19 @@
+Cell 3 Total Traces: 18
+Traces: ['Linear Univariate', 'Perfect Prediction', 'Linear Multivariate', 'Perfect Prediction', 'Linear Feature Selection', 'Perfect Prediction', 'Polynomial Degree 2', 'Perfect Prediction', 'Polynomial Degree 3', 'Perfect Prediction', 'SGD Constant', 'Perfect Prediction', 'SGD Adaptive', 'Perfect Prediction', 'Decision Tree', 'Perfect Prediction', 'Neural Network', 'Perfect Prediction']
+Cell 4 Total Traces: 9
+Traces: ['Linear Univariate', 'Linear Multivariate', 'Linear Feature Selection', 'Polynomial Degree 2', 'Polynomial Degree 3', 'SGD Constant', 'SGD Adaptive', 'Decision Tree', 'Neural Network']
+Cell 5 Total Traces: 9
+Traces: ['Linear Univariate', 'Linear Multivariate', 'Linear Feature Selection', 'Polynomial Degree 2', 'Polynomial Degree 3', 'SGD Constant', 'SGD Adaptive', 'Decision Tree', 'Neural Network']
+Cell 6 Total Traces: 2
+Traces: ['Train R²', 'Test R²']
+Cell 7 Total Traces: 2
+Traces: ['Train RMSE', 'Test RMSE']
+Cell 8 Total Traces: 0
+Cell 9 Total Traces: 0
+Cell 10 Total Traces: 2
+Traces: ['Training Set', 'Test Set']
+Cell 11 Total Traces: 0
+Cell 12 Total Traces: 3
+Traces: ['Train R²', 'Test R²', 'CV R²']
+Cell 13 Total Traces: 6
+Traces: ['Predictions', 'Perfect', 'Residuals', 'Residuals', 'Q-Q Points', 'Normal Line']
